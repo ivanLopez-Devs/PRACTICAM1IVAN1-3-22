@@ -1,4 +1,4 @@
-'use strict'
+'use strict'// modificacion para probar zorin
 
 function counter() {
   // Retorna una funcion que cuando sea invocada retorne un valor creciente.
